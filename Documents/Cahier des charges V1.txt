@@ -1,0 +1,61 @@
+Application mobile 'La fée du Jardin' permettant d'identifier de manière automatique des problèmes liés aux plantes, d'échanger avec un professionnel, de consulter diverses informations (blog)
+
+Idéalement, la partie site mobile devrait faire la même chose que l'application et référencer les mêmes informations, cependant, l'accent sera mis sur l'application étant donné que la formaiton est principalement axée sur Java et non sur le dev web
+
+
+
+L'utilisateur pourra faire plusieurs actions, telles que :
+
+- S'identifier (Choisir un identifiant et un mdp lors de sa première connexion)
+
+- Identifier le problème de sa plante de manière automatique (grâce à l'arbre de détermination du problème)
+	Il pourra donc créer des nouvelles recherches, les modifier, les supprimer, les consulter.
+	La recherche sera rattachée automatiquement à un nouvelle plante si l'utilisateur ne précise pas le contraire, et au lieu d'habitation s'il est précisé, sinon au moins le département sera demandé. 
+	Il pourra créer de nouvelles plantes, les modifier, les supprimer, les consulter.
+
+- Consulter les recherches près de chez lui (choix du lieu -> adresse ou autre) (Système de localisation)
+
+- Faire appel au professionnel. 
+	Il aura accès aux coordonnées du professionnel (tel, mail, page fb)
+	Il pourra aussi directement échanger avec le professionnel (dont lier une ou plusieurs recherches) depuis l'application via un système de tchat. 	L'utilisateur pourra donc ajouter des messages, les modifier et les supprimer ainsi que les consulter.
+	(Eventuellement : Système de notification pour un nouveau message du professionnel)
+
+- Modifier ses informations : choisir un mdp, entrer son prénom, nom, adresse, etc
+	(Eventuellement : Rattacher son compte à ses réseaux sociaux, ce qui permettra de s'identifier, d'obtenir des informations comme le prénom, le lieu d'habitation, etc)
+
+- Consulter à la partie blog qui comprendra la présentation du professionnel (parcours, diplome, créations, etc)
+	(Eventuellement : Ajout de commentaires et de notes)
+
+- Soutenir l'application (notes sur Google play + dons)
+
+- Se déconnecter
+
+
+
+Le professionnel pourra également faire différentes actions comme :
+
+- Gérer l'arbre de recherche. 
+	Ajouter des étapes, les modifier (intervertir l'ordre, les rendre obligatoires ou pas), les supprimer
+
+- Consulter les dernières recherches (afficher les recherches de tous les utilisateurs confondus) avec ou non des filtres
+
+- Consulter le profil des utilisateurs, modifier et supprimer un profil.
+	(Eventuellement : Ajouter des commentaires sur un utilisateur visibles que par lui -> ex : coup de téléphone reçu, soucis x, rdv fixé)
+
+- Echanger avec un utilisateur depuis l'application. Ajouter, modifier, supprimer et consulter les messages.
+	(Eventuellement : Système de notification pour un nouveau message d'un utilisateur)
+
+- Modifier la partie blog (présentation, parcours, diplemes, créations, lien page fb, tarifs, etc)
+
+
+
+Evolutions possibles :
+- Système de forum pour que les utilisateurs échangent entre eux, et/ou avec le professionnel
+- Plus de professionnels
+	
+
+
+
+
+
+
